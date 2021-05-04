@@ -1,0 +1,31 @@
+.navLink {
+  text-decoration: none;
+  font-size: 27px;
+  padding-left: 15px;
+  color:darkblue;
+}
+
+.Navigation { 
+  border-bottom:darkblue solid 1px; 
+  border-top:darkblue solid 5px; 
+  background-color:lightblue; 
+  min-width: 300px;
+}
+
+nav > ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+nav > ul > li > img 
+{ padding-left: 10px; 
+  padding-top: 5px;
+}
+
+.navLinkActive {
+  color:blue;
+  text-decoration:transparent;
+}

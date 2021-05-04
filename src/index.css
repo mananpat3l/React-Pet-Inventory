@@ -1,0 +1,11 @@
+
+body {
+  min-width: 200px;
+  
+}
+
+html { background-color:whitesmoke};
+
+em { font-weight: 700;}
+
+#note {font-size: 12px; margin: 12px 45px; }

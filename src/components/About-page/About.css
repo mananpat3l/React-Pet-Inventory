@@ -1,0 +1,11 @@
+.About {
+     margin: 0 3%; 
+    font-size: 25px;}
+.About > p
+{ 
+    margin: 20px auto; 
+    max-width: 1100px;}
+.About > img 
+{ 
+    border-radius: 50px;
+     min-width: 300px;}

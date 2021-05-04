@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin: 0;
+  min-width: 350px;
+}
+footer{
+  background-color:lightblue;
+  color:darkblue;
+  border: darkblue solid 2px;
+  text-align: center;
+  font: weight 100%;
+  padding: 2rem 0;
+  width: 100%;
+  margin-top: 20%;
+
+}
+
+hr { border-color:darkblue;}
